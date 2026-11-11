@@ -1,5 +1,5 @@
 # Om Salkar — Portfolio Website
-
+Live link - https://omsalkar.github.io/om-salkar-portfolio
 A responsive, minimal-light personal portfolio built with plain HTML, CSS, and JavaScript. No framework or build step is required. It is structured for GitHub Pages hosting.
 
 ## Included
